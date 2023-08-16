@@ -9,5 +9,5 @@
 •follow this link Out-put :-.   https://credit-card-road-to-code.netlify.app/
 
 
- ⚠ !!! This is not a copy / clone of another person's card !!!⚠
+ ⚠ !!! This is not a copy of another person's card !!!⚠
 
